@@ -1,6 +1,7 @@
-<img align="center" alt="Developer" width="400" src="https://media.giphy.com/media/X6aCcZxwLh722EUiT6/giphy.gif"><br><br>
+
 <h1 align="center">Hi 👋, I'm S.Dhanush</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/X6aCcZxwLh722EUiT6/giphy.gif"><br><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushsundharam&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushsundharam" /> </p>
